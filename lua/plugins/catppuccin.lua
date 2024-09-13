@@ -24,8 +24,8 @@ return {
         mocha = {
           text = "#F0F0F0",
           base = "#000000",
-          -- mantle = "#000000",
-          -- crust = "#000000",
+          mantle = "#000000",
+          crust = "#000000",
         },
       },
       integration = {
