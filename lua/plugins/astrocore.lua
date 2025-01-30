@@ -33,6 +33,7 @@ return {
         fillchars = {
           diff = ' ',
         },
+        diffopt = 'algorithm:histogram,iwhiteall',
       },
       g = { -- vim.g.<key>
         -- configure global vim variables (vim.g)
